@@ -2,3 +2,4 @@ abcdefGHIJKLmnopQRUSuvWXyZ
 and below here are punct marks
 .,';?|
 {}[] so there.
+but what about Control-keys and Function modifiers?
